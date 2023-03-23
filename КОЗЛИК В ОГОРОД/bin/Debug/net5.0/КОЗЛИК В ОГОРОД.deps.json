@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "КОЗЛИК В ОГОРОД/1.0.0": {
+        "runtime": {
+          "КОЗЛИК В ОГОРОД.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "КОЗЛИК В ОГОРОД/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
