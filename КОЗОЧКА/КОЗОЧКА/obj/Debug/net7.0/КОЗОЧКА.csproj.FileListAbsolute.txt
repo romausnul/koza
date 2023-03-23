@@ -1,0 +1,15 @@
+E:\козлиха\КОЗОЧКА\КОЗОЧКА\bin\Debug\net7.0\КОЗОЧКА.exe
+E:\козлиха\КОЗОЧКА\КОЗОЧКА\bin\Debug\net7.0\КОЗОЧКА.deps.json
+E:\козлиха\КОЗОЧКА\КОЗОЧКА\bin\Debug\net7.0\КОЗОЧКА.runtimeconfig.json
+E:\козлиха\КОЗОЧКА\КОЗОЧКА\bin\Debug\net7.0\КОЗОЧКА.dll
+E:\козлиха\КОЗОЧКА\КОЗОЧКА\bin\Debug\net7.0\КОЗОЧКА.pdb
+E:\козлиха\КОЗОЧКА\КОЗОЧКА\obj\Debug\net7.0\КОЗОЧКА.csproj.AssemblyReference.cache
+E:\козлиха\КОЗОЧКА\КОЗОЧКА\obj\Debug\net7.0\КОЗОЧКА.GeneratedMSBuildEditorConfig.editorconfig
+E:\козлиха\КОЗОЧКА\КОЗОЧКА\obj\Debug\net7.0\КОЗОЧКА.AssemblyInfoInputs.cache
+E:\козлиха\КОЗОЧКА\КОЗОЧКА\obj\Debug\net7.0\КОЗОЧКА.AssemblyInfo.cs
+E:\козлиха\КОЗОЧКА\КОЗОЧКА\obj\Debug\net7.0\КОЗОЧКА.csproj.CoreCompileInputs.cache
+E:\козлиха\КОЗОЧКА\КОЗОЧКА\obj\Debug\net7.0\КОЗОЧКА.dll
+E:\козлиха\КОЗОЧКА\КОЗОЧКА\obj\Debug\net7.0\refint\КОЗОЧКА.dll
+E:\козлиха\КОЗОЧКА\КОЗОЧКА\obj\Debug\net7.0\КОЗОЧКА.pdb
+E:\козлиха\КОЗОЧКА\КОЗОЧКА\obj\Debug\net7.0\КОЗОЧКА.genruntimeconfig.cache
+E:\козлиха\КОЗОЧКА\КОЗОЧКА\obj\Debug\net7.0\ref\КОЗОЧКА.dll
